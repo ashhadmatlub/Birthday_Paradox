@@ -32,5 +32,5 @@ The program generates random birthdays for a given number of people and checks i
 
 ---
 
-## 👨‍💻 Author
+## Author
 Syed Muhammad Ashhad Matlub
